@@ -1,0 +1,37 @@
+15:52:43.179 [main] INFO  com.aventstack.extentreports.model.Test - Adding SubMenu to Excel Completed..
+15:52:43.203 [main] INFO  com.aventstack.extentreports.model.Test - ***TC_003_giftCardTest has Started***
+15:53:33.465 [main] INFO  com.aventstack.extentreports.model.Test - Gift Card page opened..
+15:53:34.486 [main] INFO  com.aventstack.extentreports.model.Test - Clicked On birthday..
+15:53:36.602 [main] INFO  com.aventstack.extentreports.model.Test - Amount selected..
+15:53:37.353 [main] INFO  com.aventstack.extentreports.model.Test - customising gift card completed..
+15:53:39.091 [main] INFO  com.aventstack.extentreports.model.Test - Invalid email entered..
+15:53:41.496 [main] INFO  com.aventstack.extentreports.model.Test - Writing into excel started..
+15:53:41.972 [main] INFO  com.aventstack.extentreports.model.Test - writing into excel completed..
+15:53:44.475 [main] INFO  com.aventstack.extentreports.model.Test - Invalid email cleared and  valid email id is entered...
+15:53:45.369 [main] INFO  com.aventstack.extentreports.model.Test - validate all the given details in the Confirm Details section Started........
+15:53:47.016 [main] INFO  com.aventstack.extentreports.model.Test - validate all the given details in the Confirm Details section completed........
+15:53:47.017 [main] INFO  com.aventstack.extentreports.model.Test - ***TC_003_giftCardTest has completed***
+15:54:52.184 [main] INFO  com.aventstack.extentreports.model.Test - Website Loading...
+15:54:55.629 [main] INFO  com.aventstack.extentreports.model.Test - Bookshelves step Definition started...............
+15:55:05.770 [main] INFO  com.aventstack.extentreports.model.Test - Popup Closed..
+15:55:06.294 [main] INFO  com.aventstack.extentreports.model.Test - Selected Category as Kids Book Shelves..
+15:55:10.265 [main] INFO  com.aventstack.extentreports.model.Test - Selected Price Range..
+15:55:14.542 [main] INFO  com.aventstack.extentreports.model.Test - Selected Sort By..
+15:55:14.643 [main] INFO  com.aventstack.extentreports.model.Test - selected Exclude Out of Stock..
+15:55:31.603 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+15:55:31.997 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+15:55:32.366 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+15:55:32.366 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet completed..
+15:55:58.070 [main] INFO  com.aventstack.extentreports.model.Test - Website Loading...
+15:56:03.106 [main] INFO  com.aventstack.extentreports.model.Test - Navivating to living Collections..
+15:56:04.543 [main] INFO  com.aventstack.extentreports.model.Test - Adding SubMenu List to Excel Started..
+15:56:08.528 [main] INFO  com.aventstack.extentreports.model.Test - Adding SubMenu to Excel Completed..
+15:56:28.729 [main] INFO  com.aventstack.extentreports.model.Test - Website Loading...
+15:57:12.489 [main] INFO  com.aventstack.extentreports.model.Test - Gift Card page opened..
+15:57:13.849 [main] INFO  com.aventstack.extentreports.model.Test - Clicked On birthday..
+15:57:15.364 [main] INFO  com.aventstack.extentreports.model.Test - Amount selected..
+15:57:16.235 [main] INFO  com.aventstack.extentreports.model.Test - customising gift card completed..
+15:57:17.713 [main] INFO  com.aventstack.extentreports.model.Test - Invalid email entered..
+15:57:20.652 [main] INFO  com.aventstack.extentreports.model.Test - Writing into excel started..
+15:57:21.128 [main] INFO  com.aventstack.extentreports.model.Test - writing into excel completed..
+15:57:22.104 [main] INFO  com.aventstack.extentreports.model.Test - Invalid email cleared and  valid email id is entered...

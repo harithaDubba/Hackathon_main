@@ -1,0 +1,44 @@
+15:04:01.274 [main] INFO  com.aventstack.extentreports.model.Test - Selected Price Range..
+15:04:05.011 [main] INFO  com.aventstack.extentreports.model.Test - Selected Sort By..
+15:04:05.073 [main] INFO  com.aventstack.extentreports.model.Test - selected Exclude Out of Stock..
+15:04:18.234 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+15:04:18.547 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+15:04:18.767 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+15:04:18.768 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet completed..
+15:04:18.778 [main] INFO  com.aventstack.extentreports.model.Test - ***TC_002_Collections has Started***
+15:04:19.684 [main] INFO  com.aventstack.extentreports.model.Test - Navivating to living Collections..
+15:04:20.392 [main] INFO  com.aventstack.extentreports.model.Test - Adding SubMenu List to Excel Started..
+15:04:21.431 [main] INFO  com.aventstack.extentreports.model.Test - Adding SubMenu to Excel Completed..
+15:04:21.434 [main] INFO  com.aventstack.extentreports.model.Test - ***TC_003_giftCardTest has Started***
+15:05:05.853 [main] INFO  com.aventstack.extentreports.model.Test - Gift Card page opened..
+15:05:07.165 [main] INFO  com.aventstack.extentreports.model.Test - Clicked On birthday..
+15:05:08.985 [main] INFO  com.aventstack.extentreports.model.Test - Amount selected..
+15:05:09.712 [main] INFO  com.aventstack.extentreports.model.Test - customising gift card completed..
+15:05:11.864 [main] INFO  com.aventstack.extentreports.model.Test - Invalid email entered..
+15:05:14.017 [main] INFO  com.aventstack.extentreports.model.Test - Writing into excel started..
+15:05:14.346 [main] INFO  com.aventstack.extentreports.model.Test - writing into excel completed..
+15:05:15.609 [main] INFO  com.aventstack.extentreports.model.Test - Invalid email cleared and  valid email id is entered...
+15:05:16.289 [main] INFO  com.aventstack.extentreports.model.Test - validate all the given details in the Confirm Details section Started........
+15:05:17.226 [main] INFO  com.aventstack.extentreports.model.Test - validate all the given details in the Confirm Details section completed........
+15:05:17.226 [main] INFO  com.aventstack.extentreports.model.Test - ***TC_003_giftCardTest has completed***
+15:51:44.720 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.setup()]. Static configuration methods can cause unexpected behavior.
+15:51:44.737 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.tearDown()]. Static configuration methods can cause unexpected behavior.
+15:51:44.768 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.setup()]. Static configuration methods can cause unexpected behavior.
+15:51:44.771 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.tearDown()]. Static configuration methods can cause unexpected behavior.
+15:51:44.801 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.setup()]. Static configuration methods can cause unexpected behavior.
+15:51:44.804 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.tearDown()]. Static configuration methods can cause unexpected behavior.
+15:51:59.974 [main] INFO  com.aventstack.extentreports.model.Test - Website Loading...
+15:52:00.514 [main] INFO  com.aventstack.extentreports.model.Test - ***TC_001_productsSearch has Started***
+15:52:03.803 [main] INFO  com.aventstack.extentreports.model.Test - searched for Book Shelves..
+15:52:07.604 [main] INFO  com.aventstack.extentreports.model.Test - Popup Closed..
+15:52:08.046 [main] INFO  com.aventstack.extentreports.model.Test - Selected Category as Kids Book Shelves..
+15:52:11.881 [main] INFO  com.aventstack.extentreports.model.Test - Selected Price Range..
+15:52:16.134 [main] INFO  com.aventstack.extentreports.model.Test - Selected Sort By..
+15:52:16.255 [main] INFO  com.aventstack.extentreports.model.Test - selected Exclude Out of Stock..
+15:52:30.771 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+15:52:31.304 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+15:52:31.837 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+15:52:31.837 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet completed..
+15:52:31.850 [main] INFO  com.aventstack.extentreports.model.Test - ***TC_002_Collections has Started***
+15:52:33.965 [main] INFO  com.aventstack.extentreports.model.Test - Navivating to living Collections..
+15:52:37.680 [main] INFO  com.aventstack.extentreports.model.Test - Adding SubMenu List to Excel Started..
